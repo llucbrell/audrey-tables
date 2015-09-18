@@ -1,0 +1,41 @@
+{
+  "name": "audrey-tables",
+  "version": "1.0.0",
+  "description": "audrey-two-seed for creation of chalk-color-tables",
+  "main": "index.js",
+  "dependencies": {
+    "string-length": "^1.0.1",
+    "text-table": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llucbrell/audrey-tables.git"
+  },
+  "keywords": [
+    "audrey",
+    "audrey-two",
+    "seed",
+    "command",
+    "line",
+    "interface",
+    "CLI",
+    "view",
+    "control",
+    "controller",
+    "tables",
+    "table",
+    "console",
+    "terminal",
+    "color"
+  ],
+  "author": "Lucas_C/llucbrell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/llucbrell/audrey-tables/issues"
+  },
+  "homepage": "https://github.com/llucbrell/audrey-tables#readme"
+}
