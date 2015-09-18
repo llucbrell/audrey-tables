@@ -72,6 +72,9 @@ var audrey= audrey2(myTerminalDisplay);//pass the view to audrey
 audrey.seed(["audrey-tables-##"]);//tell audrey that there is a new seed
 audrey.talk();//run audrey to display view
 ```
+You will see something like this
+
+![](https://raw.githubusercontent.com/llucbrell/audrey-tables/master/captura.png)
 
 ### Alignment types:
 
