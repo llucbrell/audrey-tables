@@ -1,6 +1,6 @@
 # audrey-tables
 
-> Seed for audrey-two VCCLI (View-Control-->Command-Line-Interface) ^v2.0.0
+> Seed for [audrey-two](https://www.npmjs.com/package/audrey-two) VCCLI (View-Control-->Command-Line-Interface) ^v2.0.0
 
 
 ## What this seed does?
@@ -70,7 +70,7 @@ var audrey2= require('audrey-two');
 var audrey= audrey2(myTerminalDisplay);//pass the view to audrey
 
 audrey.seed(["audrey-tables-##"]);//tell audrey that there is a new seed
-audrey.talk();//run audrey to display view
+audrey.encore();//run audrey to display view
 ```
 You will see something like this
 
