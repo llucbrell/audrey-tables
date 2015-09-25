@@ -67,7 +67,7 @@ var myTerminalDisplay={
 };
 
 var audrey2= require('audrey-two');
-var audrey= audrey2(myTerminalDisplay);//pass the view to audrey
+var audrey= audrey2('nameOfView', myTerminalDisplay);//pass the view to audrey
 
 audrey.seed(["audrey-tables-##"]);//tell audrey that there is a new seed
 audrey.encore();//run audrey to display view
